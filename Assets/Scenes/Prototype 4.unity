@@ -601,7 +601,7 @@ GameObject:
   - component: {fileID: 1710153245}
   - component: {fileID: 1710153244}
   m_Layer: 0
-  m_Name: FocalPoint
+  m_Name: focalPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -619,7 +619,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fccba6c87d44914d9b3af1d12cec0e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotationSpeed: 0
+  rotationSpeed: 100
 --- !u!4 &1710153245
 Transform:
   m_ObjectHideFlags: 0
